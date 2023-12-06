@@ -1,0 +1,82 @@
+[
+  {
+    "model": "ars.activitytype",
+    "pk": 1,
+    "fields": {
+      "name": "体育",
+      "image": "activityType/tiyu.jpg"
+    }
+  },
+  {
+    "model": "ars.activitytype",
+    "pk": 2,
+    "fields": {
+      "name": "课程",
+      "image": "activityType/kecheng.jpg"
+    }
+  },
+  {
+    "model": "ars.activitytype",
+    "pk": 3,
+    "fields": {
+      "name": "文艺",
+      "image": "activityType/wenyi.jpg"
+    }
+  },
+  {
+    "model": "ars.activitytype",
+    "pk": 4,
+    "fields": {
+      "name": "表演",
+      "image": "activityType/biaoyan.jpg"
+    }
+  },
+  {
+    "model": "ars.activitytype",
+    "pk": 5,
+    "fields": {
+      "name": "讲座",
+      "image": "activityType/jiangzuo.jpg"
+    }
+  },
+  {
+    "model": "ars.activitytype",
+    "pk": 6,
+    "fields": {
+      "name": "聚会",
+      "image": "activityType/juhui.jpg"
+    }
+  },
+  {
+    "model": "ars.activitytype",
+    "pk": 7,
+    "fields": {
+      "name": "游戏",
+      "image": "activityType/youxi.jpg"
+    }
+  },
+  {
+    "model": "ars.activitytype",
+    "pk": 8,
+    "fields": {
+      "name": "比赛",
+      "image": "activityType/bisai.jpg"
+    }
+  },
+  {
+    "model": "ars.activitytype",
+    "pk": 9,
+    "fields": {
+      "name": "博雅",
+      "image": "activityType/boya.jpg"
+    }
+  },
+  {
+    "model": "ars.activitytype",
+    "pk": 10,
+    "fields": {
+      "name": "志愿活动",
+      "image": "activityType/zhiyuan.jpg"
+    }
+  }
+]

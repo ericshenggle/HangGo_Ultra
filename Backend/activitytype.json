@@ -1,0 +1,72 @@
+[
+  {
+    "model": "ars.activitytype",
+    "pk": 1,
+    "fields": {
+      "name": "体育"
+    }
+  },
+  {
+    "model": "ars.activitytype",
+    "pk": 2,
+    "fields": {
+      "name": "课程"
+    }
+  },
+  {
+    "model": "ars.activitytype",
+    "pk": 3,
+    "fields": {
+      "name": "文艺"
+    }
+  },
+  {
+    "model": "ars.activitytype",
+    "pk": 4,
+    "fields": {
+      "name": "表演"
+    }
+  },
+  {
+    "model": "ars.activitytype",
+    "pk": 5,
+    "fields": {
+      "name": "讲座"
+    }
+  },
+  {
+    "model": "ars.activitytype",
+    "pk": 6,
+    "fields": {
+      "name": "聚会"
+    }
+  },
+  {
+    "model": "ars.activitytype",
+    "pk": 7,
+    "fields": {
+      "name": "游戏"
+    }
+  },
+  {
+    "model": "ars.activitytype",
+    "pk": 8,
+    "fields": {
+      "name": "比赛"
+    }
+  },
+  {
+    "model": "ars.activitytype",
+    "pk": 9,
+    "fields": {
+      "name": "博雅"
+    }
+  },
+  {
+    "model": "ars.activitytype",
+    "pk": 10,
+    "fields": {
+      "name": "string"
+    }
+  }
+]

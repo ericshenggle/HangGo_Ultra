@@ -1,0 +1,16 @@
+Django==3.2
+djangorestframework==3.12.4
+mysqlclient==2.0.3
+Pillow==8.2.0
+drf-yasg==1.20.0
+jieba==0.42.1
+
+requests~=2.25.1
+pytz~=2021.1
+pyquery~=1.4.3
+dwebsocket~=0.5.12
+channels~=3.0.3
+aliyun-python-sdk-core
+django-cors-headers
+django-extra-fields
+psycopg2

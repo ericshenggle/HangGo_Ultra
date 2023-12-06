@@ -1,0 +1,26 @@
+[
+  {
+    "model": "ars.commissiontype",
+    "pk": 1,
+    "fields": {
+      "name": "取件",
+      "image": "commissionType/pickup.jpg"
+    }
+  },
+  {
+    "model": "ars.commissiontype",
+    "pk": 2,
+    "fields": {
+      "name": "带饭",
+      "image": "commissionType/daifan.jpg"
+    }
+  },
+  {
+    "model": "ars.commissiontype",
+    "pk": 3,
+    "fields": {
+      "name": "二手",
+      "image": "commissionType/secondhand.jpg"
+    }
+  }
+]

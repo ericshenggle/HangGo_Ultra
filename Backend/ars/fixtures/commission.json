@@ -1,0 +1,38 @@
+[
+  {
+    "model": "ars.Commission",
+    "pk": 1,
+    "fields": {
+      "name": "求hxd帮拿新主楼永嘉驿站的快递",
+      "commission_type": 1,
+      "start_time": "2022-04-14 10:00",
+      "end_time": "2022-04-14 11:55",
+      "create_time": "2022-04-14 9:55",
+      "real_time": 2,
+      "user": 2,
+      "location": 1,
+      "status": 1,
+      "description": "this is a test",
+      "audit": 1,
+      "fee": 0
+    }
+  },
+  {
+    "model": "ars.Commission",
+    "pk": 2,
+    "fields": {
+      "name": "求hxd帮买新北二楼的汉堡套餐",
+      "commission_type": 2,
+      "start_time": "2022-04-14 11:30",
+      "end_time": "2022-04-14 11:55",
+      "create_time": "2022-04-14 9:55",
+      "real_time": 1,
+      "user": 2,
+      "location": 1,
+      "status": 1,
+      "description": "this is a test",
+      "audit": 1,
+      "fee": 20
+    }
+  }
+]

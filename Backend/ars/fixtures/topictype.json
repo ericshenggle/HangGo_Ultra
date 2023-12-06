@@ -1,0 +1,58 @@
+[
+  {
+    "model": "ars.topictype",
+    "pk": 1,
+    "fields": {
+      "name": "课程",
+      "image": "topicType/kecheng.jpg"
+    }
+  },
+  {
+    "model": "ars.topictype",
+    "pk": 2,
+    "fields": {
+      "name": "求助",
+      "image": "topicType/qiuzhu.jpg"
+    }
+  },
+  {
+    "model": "ars.topictype",
+    "pk": 3,
+    "fields": {
+      "name": "二手",
+      "image": "topicType/ershou.jpg"
+    }
+  },
+  {
+    "model": "ars.topictype",
+    "pk": 4,
+    "fields": {
+      "name": "吐槽",
+      "image": "topicType/tucao.jpg"
+    }
+  },
+  {
+    "model": "ars.topictype",
+    "pk": 5,
+    "fields": {
+      "name": "实习",
+      "image": "topicType/shixi.jpg"
+    }
+  },
+  {
+    "model": "ars.topictype",
+    "pk": 6,
+    "fields": {
+      "name": "交友",
+      "image": "topicType/jiaoyou.jpg"
+    }
+  },
+  {
+    "model": "ars.topictype",
+    "pk": 7,
+    "fields": {
+      "name": "杂谈",
+      "image": "topicType/zatan.jpg"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "model": "ars.User",
+    "pk": 1,
+    "fields": {
+      "is_superuser": 1,
+      "password": "pbkdf2_sha256$260000$im38I9xhr7CxJxMXkxzhI2$o9xuf0IP9pwc3hXaqiM8ReH/xDZPP+DD7f8uN7Ed/Nk=",
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "admin@se.alangy.net",
+      "is_staff": 1,
+      "is_active": 1,
+      "openid": "",
+      "age": 22,
+      "gender": 0,
+      "student_id": 17000000,
+      "phone": "12345678",
+      "audit_status": 3,
+      "nickName": "系统管理员",
+      "bykc_isactive": 0
+    }
+  }
+]
